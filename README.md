@@ -14,12 +14,13 @@ After verification, new user's pin will be avaiable for all users.
 <br><br>
 Search for the pins: 
 <br><br>
-![Screenshot (17)](https://github.com/BohdanStasov/kaunas_event_map/assets/113253107/f2c827cc-5df6-4c67-ae95-ab04607153ca)
+![Screenshot (17)](https://github.com/BohdanStasov/kaunas_event_map/assets/113253107/02aab33f-dca1-4db6-bae8-50e8835ff60f)
 <br><br>
 Add Your own pin:
 <br><br>
-![Screenshot (18)](https://github.com/BohdanStasov/kaunas_event_map/assets/113253107/6f507222-3600-4166-b10e-966691328dbb)
+![Screenshot (18)](https://github.com/BohdanStasov/kaunas_event_map/assets/113253107/2e013854-ca0f-406c-93f2-28fc19545240)
 <br><br>
 Admin accepts or declines user's pins:
 <br><br>
-![Screenshot (19)](https://github.com/BohdanStasov/kaunas_event_map/assets/113253107/6973c5d6-e270-421d-a8fd-973aa969156f)
+![Screenshot (19)](https://github.com/BohdanStasov/kaunas_event_map/assets/113253107/d35e02e4-151c-40b1-b134-e47c3095ff69)
+
